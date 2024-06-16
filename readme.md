@@ -14,6 +14,11 @@
 
 - [Image](./diagrams/api-flow-hooks.png)
 - [Canvas](./diagrams/api-flow-hooks.excalidraw)
+  
+## Api Calls Flow: Actions implementation
+
+- [Image](./diagrams/api-flow-actions.png)
+- [Canvas](./diagrams/api-flow-actions.excalidraw)
 
 ## External service to build diagrams
 
