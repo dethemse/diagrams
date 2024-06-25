@@ -19,6 +19,12 @@
 
 - [Image](./diagrams/api-flow-actions.png)
 - [Canvas](./diagrams/api-flow-actions.excalidraw)
+-
+
+## Api Calls Flow: Practice MiniStore implementation
+
+- [Image](./diagrams/mini-store.png)
+- [Canvas](./diagrams/mini-store.excalidraw)
 
 ## External service to build diagrams
 
